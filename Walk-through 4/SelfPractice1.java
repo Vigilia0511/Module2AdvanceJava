@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class SelfPractice1 {
     public static void main(String[] args) {
+        //1. Modify the program to accept user input for an array.
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the number of elements: ");
         int n = scanner.nextInt();
