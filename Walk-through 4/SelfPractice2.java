@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class SelfPractice2 {
     public static void main(String[] args) {
+        //2. Implement insertion sort on an array of strings.
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the number of strings: ");
         int n = scanner.nextInt();
